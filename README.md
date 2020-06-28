@@ -8,7 +8,11 @@
 
 ### NuGet
 
-Download latest [release](https://github.com/neogeek/NETStandardClassLibraryTemplate/releases) and install via the Project Templates dialog in Rider.
+```bash
+$ dotnet new --install com.scottdoxey.netstandardclasslibrary::1.0.0
+```
+
+or download the latest package file from [releases](https://github.com/neogeek/NETStandardClassLibraryTemplate/releases) and install via the Project Templates dialog in Rider.
 
 <img src="Screenshots/install.png" width="500">
 
