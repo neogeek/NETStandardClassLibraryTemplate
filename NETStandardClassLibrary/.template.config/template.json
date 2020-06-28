@@ -1,0 +1,13 @@
+{
+  "identity": "com.scottdoxey.netstandardclasslibrary",
+  "name": "NET Standard Class Library",
+  "shortName": "netstandardclasslibrary",
+  "author": "Scott Doxey",
+  "classifications": ["Common", "Library"],
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "NETStandardClassLibrary",
+  "preferNameDirectory": true
+}
