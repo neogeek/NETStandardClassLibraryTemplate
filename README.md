@@ -2,6 +2,8 @@
 
 > Template for building a .NET Standard Class Library in Rider.
 
+[![Nuget](https://img.shields.io/nuget/v/com.scottdoxey.netstandardclasslibrary)](https://www.nuget.org/packages/com.scottdoxey.netstandardclasslibrary/)
+
 ## Install
 
 ### NuGet
