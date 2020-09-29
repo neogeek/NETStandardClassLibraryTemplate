@@ -1,0 +1,4 @@
+language: csharp
+dotnet: 3.1
+script:
+  - make test
