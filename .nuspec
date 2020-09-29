@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>com.scottdoxey.netstandardclasslibrary</id>
+        <version>1.0.0</version>
+        <title>NET Standard Class Library</title>
+        <description>Template for building a .NET Standard Class Library in Rider.</description>
+        <authors>neogeek</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <license type="expression">MIT</license>
+        <projectUrl>https://github.com/neogeek/NETStandardClassLibraryTemplate/</projectUrl>
+        <frameworkAssemblies>
+            <frameworkAssembly assemblyName="nunit" targetFramework="netcoreapp3.1" />
+            <frameworkAssembly assemblyName="NUnit3TestAdapter" targetFramework="netcoreapp3.1" />
+            <frameworkAssembly assemblyName="Microsoft.NET.Test.Sdk" targetFramework="netcoreapp3.1" />
+        </frameworkAssemblies>
+    </metadata>
+</package>
