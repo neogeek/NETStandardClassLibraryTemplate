@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>com.scottdoxey.netstandardclasslibrary</id>
-        <version>1.0.0</version>
+        <version>2.0.0</version>
         <title>NET Standard Class Library</title>
         <description>Template for building a .NET Standard Class Library in Rider.</description>
         <authors>neogeek</authors>
