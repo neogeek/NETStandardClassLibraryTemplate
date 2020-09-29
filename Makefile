@@ -1,11 +1,8 @@
 build:
-	dotnet pack "$(shell pwd)/NETStandardClassLibraryTemplate.csproj"
+	dotnet build NETStandardClassLibrary/*.csproj
 
-install:
-	dotnet new --install "$(shell pwd)/bin/Debug/com.scottdoxey.netstandardclasslibrary.*.nupkg"
-
-uninstall:
-	dotnet new --uninstall com.scottdoxey.netstandardclasslibrary
+test:
+	dotnet test NETCoreAppClassLibraryTest/*.csproj
 
 clean:
 	git clean -xdf

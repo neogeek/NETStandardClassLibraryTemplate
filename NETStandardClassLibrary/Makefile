@@ -1,2 +1,0 @@
-build:
-	dotnet build *.csproj
