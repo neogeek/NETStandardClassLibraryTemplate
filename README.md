@@ -45,3 +45,9 @@ $ dotnet new --uninstall "$(shell pwd)/NETStandardClassLibrary"
 ## Setup
 
 <img src="Screenshots/setup.png" width="500">
+
+## Build Nuget
+
+```bash
+$ dotnet pack "$(shell pwd)/NETStandardClassLibraryTemplate.csproj"
+```
