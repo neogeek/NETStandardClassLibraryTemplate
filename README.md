@@ -2,6 +2,7 @@
 
 > Template for building a .NET Standard Class Library in Rider.
 
+[![Test](https://github.com/neogeek/NETStandardClassLibraryTemplate/actions/workflows/test.workflow.yml/badge.svg)](https://github.com/neogeek/NETStandardClassLibraryTemplate/actions/workflows/test.workflow.yml)
 [![Nuget](https://img.shields.io/nuget/v/com.scottdoxey.netstandardclasslibrary)](https://www.nuget.org/packages/com.scottdoxey.netstandardclasslibrary/)
 
 ## Install
