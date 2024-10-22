@@ -10,7 +10,7 @@
 ### NuGet
 
 ```bash
-$ dotnet new --install com.scottdoxey.netstandardclasslibrary::1.0.0
+$ dotnet new --install com.scottdoxey.netstandardclasslibrary::2.0.0
 ```
 
 or download the latest package file from [releases](https://github.com/neogeek/NETStandardClassLibraryTemplate/releases) and install via the Project Templates dialog in Rider.
@@ -20,7 +20,7 @@ or download the latest package file from [releases](https://github.com/neogeek/N
 or via command line
 
 ```bash
-$ dotnet new --install "com.scottdoxey.netstandardclasslibrary.1.0.0.nupkg"
+$ dotnet new --install "com.scottdoxey.netstandardclasslibrary.2.0.0.nupkg"
 ```
 
 ### Repo
