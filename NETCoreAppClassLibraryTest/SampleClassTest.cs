@@ -11,7 +11,7 @@ namespace NETCoreAppClassLibraryTest
         public void AddNumbersTest()
         {
 
-            Assert.AreEqual(2, SampleClass.AddNumbers(1, 1));
+            Assert.That(SampleClass.AddNumbers(1, 1), Is.EqualTo(2));
 
         }
 
