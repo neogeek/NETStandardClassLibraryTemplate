@@ -10,9 +10,9 @@
         <license type="expression">MIT</license>
         <projectUrl>https://github.com/neogeek/NETStandardClassLibraryTemplate/</projectUrl>
         <frameworkAssemblies>
-            <frameworkAssembly assemblyName="nunit" targetFramework="netcoreapp3.1" />
-            <frameworkAssembly assemblyName="NUnit3TestAdapter" targetFramework="netcoreapp3.1" />
-            <frameworkAssembly assemblyName="Microsoft.NET.Test.Sdk" targetFramework="netcoreapp3.1" />
+            <frameworkAssembly assemblyName="nunit" targetFramework="net8.0" />
+            <frameworkAssembly assemblyName="NUnit3TestAdapter" targetFramework="net8.0" />
+            <frameworkAssembly assemblyName="Microsoft.NET.Test.Sdk" targetFramework="net8.0" />
         </frameworkAssemblies>
     </metadata>
 </package>
