@@ -1,5 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <TargetFrameworks>netstandard2.0</TargetFrameworks>
     <PackageId>com.scottdoxey.netstandardclasslibrary</PackageId>
     <Version>2.0.0</Version>
@@ -8,4 +9,8 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/neogeek/NETStandardClassLibraryTemplate/</RepositoryUrl>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
 </Project>
