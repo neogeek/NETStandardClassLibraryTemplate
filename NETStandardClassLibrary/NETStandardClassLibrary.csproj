@@ -3,7 +3,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <TargetFrameworks>netstandard2.0</TargetFrameworks>
     <PackageId>com.scottdoxey.netstandardclasslibrary</PackageId>
-    <Version>2.0.0</Version>
+    <Version>2.0.1</Version>
     <Authors>neogeek</Authors>
     <Description>Template for building a .NET Standard Class Library in Rider.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
